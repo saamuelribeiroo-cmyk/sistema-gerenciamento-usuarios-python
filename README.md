@@ -1,6 +1,6 @@
 Sistema de Gerenciamento de Usuários
 
-Sistema desenvolvido em Python para gerenciamento de usuários através do terminal.O projeto permite cadastrar, pesquisar,
+Sistema desenvolvido em Python para gerenciamento de usuários através do terminal. O projeto permite cadastrar, pesquisar,
 excluir, listar e salvar informações de usuários em um arquivo de texto.
 
 Funcionalidades
