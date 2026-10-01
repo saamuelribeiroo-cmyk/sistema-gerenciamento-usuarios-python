@@ -20,6 +20,6 @@ Manipulação de arquivos com open().
 Projeto desenvolvido para praticar conceitos fundamentais de Python, como funções, estruturas de dados,
 condicionais, laços de repetição e manipulação de arquivos.
 
-👨‍💻 Autor
+ Autor
 Samuel Ribeiro
 GitHub: @saamuelribeiroo-cmyk
