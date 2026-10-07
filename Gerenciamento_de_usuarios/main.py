@@ -1,5 +1,5 @@
 # Sistema de Gerenciamento de Usuários em Python
-from Gerenciamento_de_usuarios.funcoes import *
+from Gerenciamento_de_usuarios.funcoes_gerenciar_usuarios import *
 
 usuaris = {}
 opcao = perguntar()
